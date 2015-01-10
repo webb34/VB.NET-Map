@@ -1,0 +1,310 @@
+<?xml version="1.0"?>
+<printers>
+  <printer objectID="6-PRT001" model="" x="292" y="242">
+    <infoSet display="false">
+      <model>Model 1</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT002" model="" x="247" y="242">
+    <infoSet display="false">
+      <model>Model 2</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT003" x="200" y="278">
+    <infoSet>
+      <name>PRT HP 6-10</name>
+      <model>Model 3</model>
+    </infoSet>
+    <wallPlateNum>6A-R1-C13</wallPlateNum>
+    <faxWallPlateNum>6A-R1-C14</faxWallPlateNum>
+  </printer>
+  <printer objectID="6-PRT004" model="" x="130" y="305">
+    <infoSet display="false">
+      <model>Model 4</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT005" model="" x="106" y="140">
+    <infoSet display="false">
+      <model>Model 5</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT006" model="" x="25" y="217">
+    <infoSet display="false">
+      <model>Model 6</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT007" model="" x="15" y="342">
+    <infoSet display="false">
+      <model>Model 7</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT008" model="" x="15" y="457">
+    <infoSet display="false">
+      <model>Model 9</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT009" model="" x="185" y="215">
+    <infoSet display="false">
+      <model>Model 10</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT010" model="" x="14" y="410">
+    <infoSet display="false">
+      <model>Model 10</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT011" model="" x="133" y="645">
+    <infoSet>
+      <name>PRT HP 6-08</name>
+      <model>Model 11</model>
+    </infoSet>
+    <wallPlateNum>6A-R1-F14</wallPlateNum>
+  </printer>
+  <printer objectID="6-PRT012" x="160" y="616">
+    <infoSet>
+      <name>PRT XEROX 6-09</name>
+      <model>Model 12</model>
+      <faxNum>
+      </faxNum>
+    </infoSet>
+    <wallPlateNum>6A-R1-F13</wallPlateNum>
+    <faxWallPlateNum>6A-R1-F15</faxWallPlateNum>
+  </printer>
+  <printer objectID="6-PRT013" model="" x="18" y="670">
+    <infoSet display="false">
+      <model>Model 9</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT013" x="399" y="368">
+    <infoSet>
+      <name>PRT XEROX 6-0? Library</name>
+      <model>Model 12</model>
+      <faxNum>
+      </faxNum>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT014" model="" x="455" y="780">
+    <infoSet>
+      <name>PRT HP 6-14</name>
+      <model>Model 11</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT015" model="" x="472" y="780">
+    <infoSet>
+      <name>PRT HP 6-22</name>
+      <model>Model 8</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT016" model="" x="1040" y="668">
+    <infoSet display="false">
+      <model>Model 1</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT017" x="870" y="445">
+    <infoSet>
+      <name>PRT HP 6-03</name>
+      <model>Model 13</model>
+      <faxNum>
+      </faxNum>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT017" x="870" y="445">
+    <infoSet>
+      <name>PRT HP 6-03</name>
+      <model>Model 13</model>
+      <faxNum>
+      </faxNum>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT018" x="888" y="195">
+    <infoSet>
+      <name>PRT HP 6-12</name>
+      <model>Model 14</model>
+      <faxNum>
+      </faxNum>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT019" model="" x="733" y="368">
+    <infoSet display="false">
+      <model>Model 14</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT020" x="637" y="343">
+    <infoSet>
+      <name>PRT HP 6-05</name>
+      <model>Model 13</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT021" x="470" y="680">
+    <infoSet>
+      <name>PRT XEROX 6-?</name>
+      <model>Model 12</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT022" model="" x="645" y="632">
+    <infoSet>
+      <name>PRT HP 6-18</name>
+      <model>Model 11</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT023" model="" x="645" y="616">
+    <infoSet>
+      <name>PRT HP 6-19</name>
+      <model>Model 11</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT024" model="" x="665" y="616">
+    <infoSet>
+      <name>PRT HP 6-17</name>
+      <model>Model 1</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT025" model="" x="895" y="638">
+    <infoSet>
+      <name>PRT HP 6-01</name>
+      <model>Model 11</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT026" model="" x="875" y="638">
+    <infoSet>
+      <name>PRT XEROX 6-?</name>
+      <model>Model 12</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT027" model="" x="792" y="433">
+    <infoSet>
+      <name>PRT HP 6-21</name>
+      <model>Model 1</model>
+    </infoSet>
+  </printer>
+  <printer objectID="6-PRT027" model="" x="812" y="433">
+    <infoSet>
+      <name>PRT HP 6-20</name>
+      <model>Model 3</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT001" model="" x="470" y="240">
+    <infoSet>
+      <name>PRT HP 5-09</name>
+      <model>Model 4</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT002" model="" x="462" y="341">
+    <infoSet>
+      <name>PRT HP 5-?</name>
+      <model>Model 5</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT002" model="" x="462" y="341">
+    <infoSet>
+      <name>PRT HP 5-?</name>
+      <model>Model 5</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT003" model="" x="402" y="440">
+    <infoSet>
+      <model>Model 8</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT004" model="" x="402" y="465">
+    <infoSet>
+      <model>Model 8</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT005" model="" x="402" y="490">
+    <infoSet>
+      <model>Model 8</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT006" model="" x="295" y="370">
+    <infoSet display="false">
+      <model>Model 5</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT007" x="66" y="570">
+    <infoSet>
+      <name>PRT HP 5-01</name>
+      <model>Model 13</model>
+      <faxNum>
+      </faxNum>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT008" x="14" y="576">
+    <infoSet display="false">
+      <model>Model 12</model>
+      <faxNum>
+      </faxNum>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT009" x="113" y="551">
+    <infoSet display="false">
+      <model>Model 2</model>
+      <faxNum>
+      </faxNum>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT010" x="132" y="660">
+    <infoSet>
+      <name>PRT HP 5-10</name>
+      <model>Model 13</model>
+      <faxNum>
+      </faxNum>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT011" x="163" y="657">
+    <infoSet>
+      <name>PRT XEROX 5-?</name>
+      <model>Model 12</model>
+      <faxNum>
+      </faxNum>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT012" x="183" y="657">
+    <infoSet>
+      <name>PRT HP 5-02</name>
+      <model>Model 6</model>
+      <faxNum>
+      </faxNum>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT013" model="" x="283" y="838">
+    <infoSet display="false">
+      <model>Model 9</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT014" model="" x="462" y="778">
+    <infoSet>
+      <name>PRT HP 5-12</name>
+      <model>Model 8</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT015" model="" x="477" y="778">
+    <infoSet>
+      <name>PRT HP 5-04</name>
+      <model>Model 11</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT016" model="" x="585" y="778">
+    <infoSet>
+      <name>PRT XEROX 5-?</name>
+      <model>Model 12</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT017" model="" x="644" y="586">
+    <infoSet display="false">
+      <model>Model 7</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT018" model="" x="950" y="542">
+    <infoSet>
+      <name>PRT HP 5-14</name>
+      <model>Model 8</model>
+    </infoSet>
+  </printer>
+  <printer objectID="5-PRT019" model="" x="925" y="499">
+    <infoSet>
+      <name>PRT XEROX 5-?</name>
+      <model>Model 12</model>
+    </infoSet>
+  </printer>
+</printers>

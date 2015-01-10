@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<zones>
+    <zone objectID="MensRoom" class="bathrooom" x="38" y="172">
+        <area>M 60,22 L 67,22 L 67,7 L 154,7 L 154,61 L 87,61 L 87,35 L 85,35 L 85,39 L 62,39 L 62,37 L 60,37 L 45,37 A 15,15 0 0,1 60,22</area>
+        <symbol></symbol>
+    </zone>
+    <zone objectID="LadiesRoom" class="bathrooom" x="38" y="172">
+        <area>M 60,182 A 15,15 0 0,1 45,167 L 60,167 L 62,167 L 62,165 L 87,165 L 87,138 L 154,138 L 154,193 L 87,193 L 87,183 L 84,183 L 84,197 L 62,197 L 62,182 L 60,182</area>
+        <symbol></symbol>
+    </zone>
+</zones>

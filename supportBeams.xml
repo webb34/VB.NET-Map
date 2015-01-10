@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<supportBeams>
+  <supportBeam objectID="U-beam1" x="467" y="238" height="13" width="15">
+  </supportBeam>
+  <supportBeam objectID="U-beam2" x="341" y="238" width="13" height="13">
+  </supportBeam>
+  <supportBeam objectID="U-beam3" x="200" y="238" height="13" width="16">
+  </supportBeam>
+  <supportBeam objectID="U-beam4" x="138" y="152" width="17" height="13" orientation="45">
+  </supportBeam>
+  <supportBeam objectID="U-beam5" x="56" y="233" width="17" height="15" orientation="45">
+  </supportBeam>
+  <supportBeam objectID="U-beam6" x="59" y="375" width="15" height="17">
+  </supportBeam>
+  <supportBeam objectID="U-beam7" x="59" y="516" width="15" height="17">
+  </supportBeam>
+  <supportBeam objectID="U-beam8" x="56" y="654" width="15" height="17" orientation="45">
+  </supportBeam>
+  <supportBeam objectID="U-beam9" x="126" y="723" width="15" height="17" orientation="45">
+  </supportBeam>
+  <supportBeam objectID="U-beam10" x="196" y="797" height="17" width="15" orientation="45">
+  </supportBeam>
+  <supportBeam objectID="U-beam11" x="339" y="797" width="17" height="15">
+  </supportBeam>
+  <supportBeam objectID="U-beam12" x="466" y="796" height="16" width="17">
+  </supportBeam>
+  <supportBeam objectID="U-beam13" x="592" y="796" height="16" width="17">
+  </supportBeam>
+  <supportBeam objectID="U-beam14" x="718" y="797" width="17" height="15">
+  </supportBeam>
+  <supportBeam objectID="U-beam15" x="856" y="793" width="15" height="17" orientation="315">
+  </supportBeam>
+  <supportBeam objectID="U-beam16" x="927" y="725" width="16" height="15" orientation="315">
+  </supportBeam>
+  <supportBeam objectID="U-beam17" x="997" y="654" width="15" height="17" orientation="315">
+  </supportBeam>
+  <supportBeam objectID="U-beam18" x="1000" y="516" width="15" height="17">
+  </supportBeam>
+  <supportBeam objectID="U-beam19" x="1000" y="377" width="14" height="14">
+  </supportBeam>
+  <supportBeam objectID="U-beam20" x="997" y="230" width="15" height="17" orientation="45">
+  </supportBeam>
+  <supportBeam objectID="U-beam21" x="916" y="152" width="17" height="13" orientation="315">
+  </supportBeam>
+  <supportBeam objectID="U-beam22" x="861" y="238" height="13" width="15">
+  </supportBeam>
+  <supportBeam objectID="U-beam23" x="720" y="238" width="13" height="13">
+  </supportBeam>
+  <supportBeam objectID="U-beam24" x="594" y="238" height="13" width="15">
+  </supportBeam>
+  <supportBeam objectID="U-beam25" x="201" y="374" height="19" width="13">
+  </supportBeam>
+  <supportBeam objectID="U-beam26" x="337" y="377" width="17" height="13">
+  </supportBeam>
+  <supportBeam objectID="U-beam27" x="720" y="378" width="12" height="10">
+  </supportBeam>
+  <supportBeam objectID="U-beam28" x="861" y="375" width="13" height="19">
+  </supportBeam>
+  <supportBeam objectID="U-beam29" x="200" y="518" width="13" height="13">
+  </supportBeam>
+  <supportBeam objectID="U-beam30" x="341" y="518" height="12" width="13">
+  </supportBeam>
+  <supportBeam objectID="U-beam31" x="721" y="518" width="12" height="12">
+  </supportBeam>
+  <supportBeam objectID="U-beam32" x="861" y="518" width="13" height="13">
+  </supportBeam>
+  <supportBeam objectID="U-beam33" x="200" y="654" height="21" width="16">
+  </supportBeam>
+  <supportBeam objectID="U-beam34" x="341" y="658" width="13" height="13">
+  </supportBeam>
+  <supportBeam objectID="U-beam35" x="466" y="659" height="14" width="15">
+  </supportBeam>
+  <supportBeam objectID="U-beam36" x="595" y="658" width="12" height="13">
+  </supportBeam>
+  <supportBeam objectID="U-beam37" x="721" y="658" width="13" height="13">
+  </supportBeam>
+  <supportBeam objectID="U-beam38" x="860" y="654" width="15" height="21">
+  </supportBeam>
+</supportBeams>

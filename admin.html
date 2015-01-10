@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Admin Portal</title>
+    <script src="admin.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body onkeypress="transp(event)">
+    <div id="outline" style="position: absolute; left: 1px; top: 2px; opacity: 0;"><img src="5f.png" height="868px" width="1075px"></div>
+    <div id="searchBar">
+        <select>
+          <option value="fullName">Name</option>
+          <option value="phoneNum">Phone Number</option>
+          <option value="phoneMAC">Phone MAC</option>
+          <option value="id">Office ID</option>
+          <option value="zone">Zone</option>
+          <option value="pcName">PC Name</option>
+          <option value="wallPlateNum">Wall Plate Number</option>
+          <option value="prtName">Printer Name</option>
+        </select>
+        Search: <input type="text" name="query" autofocus onkeypress="checkEnter(event)" >
+        <button onclick="search()">Search</button>
+        <button onclick="clearSearch()">Clear</button>
+        <br>
+        <p id="results"></p>
+        <br>
+        <div id="checks">
+          <div id="floorChecks" onchange="updateFloorView()">
+            <table>
+              <tr><th>Floors</th></tr>
+              <tr><td><input id="sfc" type="checkbox" name="floor" value="6" onchange="toggleFloorView(this)" checked>6th Floor</td></tr>
+              <tr><td><input id="ffc" type="checkbox" name="floor" value="5" onchange="toggleFloorView(this)">5th Floor</td></tr>
+              <tr><td><input type="checkbox" name="floor" value="U" checked>Universal</td></tr>
+            </table>
+          </div>
+          <div id="formatChecks" onchange="updateFormatView()">
+            <table>
+              <tr><th>Formats</th></tr>
+              <tr><td><input type="checkbox" name="format" value="room" checked>Rooms</td></tr>
+              <tr><td><input type="checkbox" name="format" value="printer" checked>Printers</td></tr>
+              <tr><td><input type="checkbox" name="format" value="wall" checked>Walls</td></tr>
+              <tr><td><input type="checkbox" name="format" value="filingCabinet" checked>Filing Cabinets</td></tr>
+              <tr><td><input type="checkbox" name="format" value="furniture" checked>Furniture</td></tr>
+              <tr><td><input type="checkbox" name="format" value="supportBeam" checked>Support Beams</td></tr>
+            </table>
+          </div>
+        </div>
+        <div id="newObject">
+          Create:
+          <select id="formatSelector" onchange="updateFormatView()"></select>
+          <button onclick="createNew()">GO</button>
+        </div>
+        <div id="swapStuff">
+          <p>Want to swap the locations of two people? Simply click and drag one to the other's location. Or use this form:</p>
+          <form id="swapStuffForm">
+            Swap:<input id="swapperSource" type="button" value="Drop" title="Click and drag the person you want to move here." name="source">
+            with:<input id="swapperTarget" type="button" value="Drop" title="Click and drag the person you want to move here." name="target">
+            <input id="swapButton" type="button" value="Swap" name="swapOrNot" onclick="swapEm()">
+          </form>
+        </div>
+    </div>
+  </body>
+</html>

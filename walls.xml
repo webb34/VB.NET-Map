@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<walls>
+  <wall objectID="U-outerWall" x="0" y="0">
+    <coorStr>M1,220 L 220,1 L 304,85 L 771,85 L 855,1 L 1074,220 L 1074,688 L 894,868 L 181,868 L 1,688 Z</coorStr>
+  </wall>
+  <wall objectID="U-innerWalls" x="7" y="115" objectClass="floor">
+    <coorStr>M 1,214 L 109,106 L 228,225 L 834,225 L 953,106 L 1061,214 L 1061,675 L 884,852 L 178,852 L 1,675 Z M 109,112 L 226,229 L 836,229 L 952,113 L 1056,216 L 1056,673 L 882,847 L 179,847 L 5,673 L 5,216 Z</coorStr>
+  </wall>
+  <wall objectID="6-003Wall" x="371" y="308">
+    <coorStr>M 1,1 L 11,1 M 39,1 L 49,1</coorStr>
+  </wall>
+  <wall objectID="6-007Wall" x="180" y="287">
+    <coorStr>M 1,1 L 22,22 L 55,22</coorStr>
+  </wall>
+  <wall objectID="6-008Wall" x="109" y="267">
+    <coorStr>M 1,44 L 9,44 L 9,14 L 9,14 L 17,6 Q 4,1 1,14 L 9,14 M 47,37 L 47,59 L 69,59 Z</coorStr>
+  </wall>
+  <wall objectID="6-MensBRoomWall" x="560" y="337">
+    <coorStr>M 1,39 L 1,10 A 9,9 0 0,1 19,10 L 19,27 M 37,27 L 37,1 L 58,1 L 58,10 L 58,1 A 9,9 0 0,1 67,10 A 9,9 0 0,1 76,1 L 76,10 L 76,1 A 9,9 0 0,1 85,10 A 9,9 0 0,1 94,1 L 94,10 L 94,1 A 9,9 0 0,1 103,10 A 9,9 0 0,1 112,1 L 112,10 L 112,1 L 133,1 L 133,27</coorStr>
+  </wall>
+  <wall objectID="6-WomensBRoomWall" x="597" y="560">
+    <coorStr>M 1,1 L 1,10 A 15,15 0 0,0 16,25 L 20,25 L 20,10 A 15,15 0 0,1 35,25 L 61,25 L 61,1 L 61,25 L 66,25 A 15,15 0 0,1 81,10 L 81,25 A 15,15 0 0,0 96,10 L 96,1</coorStr>
+  </wall>
+  <wall objectID="U-elevatorsRBackground" objectClass="elevBackground" x="420" y="362">
+    <coorStr>M 1,33 L 1,199 L 73,199 A 22,22 0 0,0 95,177 L 95,19 A 18,18 0 0,0 77,1 L 28,1 L 28,33 Z</coorStr>
+  </wall>
+  <wall objectID="U-elevatorsLBackground" objectClass="elevBackground" x="559" y="362">
+    <coorStr>M 19,1 A 18,18 0 0,0 1,19 L 1,177 A 22,22 0 0,0 23,199 L 134,199 L 134,1 Z</coorStr>
+  </wall>
+  <wall objectID="U-ElevatorsLWalls" objectClass="elevWalls" x="420" y="362">
+    <coorStr>M 9,33 L 9,48 A 15,15 0 0,0 24,33 A 15,15 0 0,1 9,48 L 9,33 L 8,33 L 1,33 L 1,199 L 33,199 L 33,193 L 7,193 L 7,118 L 52,118 L 52,196 L 49,196 L 49,199 L 48,199 L 48,184 A 15,15 0 0,0 33,199 A 15,15 0 0,1 48,184 L 48,199 L 57,199 L 58,199 L 58,184 A 15,15 0 0,1 73,199 A 15,15 0 0,0 58,184 L 58,199 L 57,199 L 57,196 L 56,196 L 56,164 L 93,164 L 93,177 A 20,20 0 0,1 73,197 L 73,199 A 22,22 0 0,0 95,177 L 95,174 L 103,174 L 103,189 A 15,15 0 0,0 118,174 A 15,15 0 0,1 103,189 L 103,172 L 95,172 L 95,147 L 89,147 L 89,159 L 56,159 L 56,39 L 89,39 L 89,51 L 95,51 L 95,33 L 95,27 L 103,27 L 103,25 L 103,10 A 15,15 0 0,1 118,25 A 15,15 0 0,0 103,10 L 103,25 L 95,25 L 95,19 A 18,18 0 0,0 77,1 L 47,1 L 47,3 L 77,3 A 16,16 0 0,1 93,19 L 93,33 L 30,33 L 30,3 L 36,3 L 36,1 L 37,1 L 37,11 A 10,10 0 0,0 47,1 A 10,10 0 0,1 37,11 L 37,1 L 36,1 L 28,1 L 28,33 L 24,33 L 24,39 L 52,39 L 52,113 L 7,113 L 7,39 L 8,39 Z M 90,67 L 95,67 L 95,92 L 90,92 Z M 90,108 L 95,108 L 95,133 L 90,133 Z</coorStr>
+  </wall>
+  <wall objectID="U-ElevatorsRAndBathroomWalls" objectClass="elevWalls" x="537" y="362">
+    <coorStr>M 41,1 A 18,18 0 0,0 23,19 L 23,25 L 16,25 L 16,10 A 15,15 0 0,0 1,25 A 15,15 0 0,1 16,10 L 16,25 L 16,27 L 23,27 L 23,90 L 29,90 L 29,80 L 63,80 L 63,121 L 81,121 L 81,159 L 29,159 L 29,149 L 23,149 L 23,172 L 16,172 L 16,174 L 16,189 A 15,15 0 0,1 1,174 A 15,15 0 0,0 16,189 L 16,174 L 23,174 L 23,177 A 22,22 0 0,0 45,199 L 45,197 A 20,20 0 0,1 25,179 L 25,165 L 60,165 L 60,167 L 45,167 A 15,15 0 0,0 60,182 A 15,15 0 0,1 45,167 L 60,167 L 62,167 L 62,165 L 87,165 L 87,138 L 154,138 L 154,193 L 87,193 L 87,183 L 84,183 L 84,197 L 62,197 L 62,182 L 60,182 L 60,199 L 156,199 L 156,1 L 60,1 L 60,22 L 67,22 L 67,7 L 154,7 L 154,61 L 87,61 L 87,35 L 85,35 L 85,39 L 62,39 L 62,37 L 60,37 L 45,37 A 15,15 0 0,1 60,22 A 15,15 0 0,0 45,37 L 60,37 L 60,39 L 45,39 L 45,41 L 85,41 L 85,67 L 83,67 L 83,52 A 15,15 0 0,0 68,67 A 15,15 0 0,1 83,52 L 83,67 L 83,69 L 154,69 L 154,132 L 87,132 L 87,116 L 67,116 L 67,69 L 68,69 L 68,67 L 67,67 L 67,55 L 65,55 L 65,76 L 30,76 L 30,40 L 32,40 L 32,39 L 25,39 L 25,19 A 16,16 0 0,1 41,3 Z M 23,108 L 28,108 L 28,132 L 23,132 Z</coorStr>
+  </wall>
+  <wall objectID="6-033Wall" x="110" y="580">
+    <coorStr>M 1,9 L 1,1 L 69,1 L 69,9 M 1,25 L 1,33 L 69,33 L 69,25 M 47,33 L 47,106 L 41,106 L 49,114 Q 65,122 69,106 L 47,106 M 59,105 L 69,105 A 10,10 0 0,0 59,95 A 10,10 0 0,0 69,85 L 59,85 L 59,84 L 69,84 A 10,10 0 0,0 59,74 A 10,10 0 0,0 69,64 L 59,64 M 69,63 L 47,63</coorStr>
+  </wall>
+  <wall objectID="6-048Wall" x="428" y="585">
+    <coorStr>M 1,11 L 1,1 L 42,1 L 42,11</coorStr>
+  </wall>
+  <wall objectID="6-053Wall" x="480" y="777">
+    <coorStr>M 1,21 L 10,21 L 10,35 L 10,10 L 13,10 L 13,1 A 9,9 0 0,1 22,10 A 9,9 0 0,1 31,1 L 31,10 L 34,10 L 34,35 L 1,35</coorStr>
+  </wall>
+  <wall objectID="6-057Wall" x="498" y="605">
+    <coorStr>M 1,1 L 1,10 L 77,10 L 77,1</coorStr>
+  </wall>
+  <wall objectID="6-077Wall" x="716" y="528">
+    <coorStr>M 1,1 L 7,1</coorStr>
+  </wall>
+  <wall objectID="6-079Wall" x="862" y="635">
+    <coorStr>M 11,106 A 5,5 0 0,1 3,98 Z M 1,30 L 52,30 L 70,48 L 74,44 L 67,44 L 67,41 L 62,41 M 68,43 L 78,43 A 10,10 0 0,0 68,33 A 10,10 0 0,0 78,23 L 68,23 L 68,22 L 78,22 A 10,10 0 0,0 68,12 A 10,10 0 0,0 78,2 L 68,2 M 53,1 L 53,32 M 58,1 L 58,36</coorStr>
+  </wall>
+  <wall objectID="6-WPWall" x="716" y="429">
+    <coorStr>M 1,15 L 1,91 M 73,1 L 73,41 M 117,1 L 117,42 A 15,15 0 0,0 102,57 L 117,57 L 117,60</coorStr>
+  </wall>
+  <wall objectID="6-084Wall" x="957" y="496">
+    <coorStr>M 1,1 L 1,6 L 10,14</coorStr>
+  </wall>
+  <wall objectID="6-085AWall" x="861" y="501">
+    <coorStr>M 13,1 L 1,1 L 1,32 L 79.5,32 L 79.5,16 L 68.5,5</coorStr>
+  </wall>
+  <wall objectID="6-Div2AssistantsWall" x="860" y="425">
+    <coorStr>M 1,1 L 19,1 L 8,1 L 8,60 L 1,60 L 19,60</coorStr>
+  </wall>
+  <wall objectID="6-086Wall" x="861" y="375" orientation="180">
+    <coorStr>M 67.5,1 L 79.5,1 L 79.5,32 L 1,32 L 1,16 L 12,5</coorStr>
+  </wall>
+  <wall objectID="6-087Wall" x="957" y="398">
+    <coorStr>M 1,14 L 1,10 L 10,1</coorStr>
+  </wall>
+  <wall objectID="6-090Wall" x="842" y="220">
+    <coorStr>M 1,20 L 20,20 L 20,1 Z</coorStr>
+  </wall>
+  <wall type="4" objectID="6-090BRWall" x="998" y="201" orientation="315">
+    <coorStr>M 1,1 L 38,1 A 15,15 0 0,0 53,16 L 53,1 L 57,1 L 57,35 L 46,46 Z</coorStr>
+  </wall>
+  <wall objectID="6-096Wall" x="716" y="379">
+    <coorStr>M 6,1 L 1,1 L 1,10 L 6,10</coorStr>
+  </wall>
+  <wall objectID="U-stairCase" x="513" y="261">
+    <coorStr>M 1,22 A 21,21 0 1,1 43,22 A 21,21 0 0,1 22,43 A 21,21 0 0,1 1,22 M 20,22 A 2,2 0 1,1 24,22 A 2,2 0 0,1 22,24 A 2,2 0 0,1 20,22 M 1,22 L 20,22 M 24,22 L 43,22 M 22,1 L 22,20 M 22,24 L 22,42 M 13,41 L 21.5,23 M 22.5,21 L 31,2 M 7,37 L 21,23 M 23,21 L 37,7 M 3,31 L 21,22.5 M 23.5,21 L 41.5,12.5 M 3,13 L 21,21.5 M 7,7 L 21,21 M 13,3 L 21.5,21</coorStr>
+  </wall>
+  <wall objectID="6-stairTop" x="512" y="238" objectClass="filled">
+    <coorStr>M 1,72 L 1,63 L 6,63 L 6,30 L 1,30 L 1,1 L 24,1 L 24,16 A 31,31 0 0,1 55,47 L 55,55 A 15,15 0 0,0 71,71 L 71,1 L 1,1</coorStr>
+  </wall>
+  <wall objectID="U-elevator1" x="478" y="403" objectClass="elevator">
+    <coorStr>M 1,1 L 1,36 L 28,36 L 28,1 Z L 28,36 M 28,1 L 1,36</coorStr>
+  </wall>
+  <wall objectID="U-elevator2" x="478" y="442" objectClass="elevator">
+    <coorStr>M 1,1 L 1,36 L 28,36 L 28,1 Z L 28,36 M 28,1 L 1,36</coorStr>
+  </wall>
+  <wall objectID="U-elevator3" x="478" y="481" objectClass="elevator">
+    <coorStr>M 1,1 L 1,36 L 28,36 L 28,1 Z L 28,36 M 28,1 L 1,36</coorStr>
+  </wall>
+  <wall objectID="U-elevator4" x="568" y="444" objectClass="elevator">
+    <coorStr>M 1,1 L 1,36 L 28,36 L 28,1 Z L 28,36 M 28,1 L 1,36</coorStr>
+  </wall>
+  <wall objectID="U-serviceElevator" x="568" y="485" objectClass="elevator">
+    <coorStr>M 1,1 L 1,33 L 47,33 L 47,1 Z L 47,33 M 47,1 L 1,33</coorStr>
+  </wall>
+  <wall objectID="U-stairs1" x="426" y="496" objectClass="stairs">
+    <coorStr>M 1,3 L 46,3 </coorStr>
+    <coorStr>M 1.5,1 L 1.5,45 </coorStr>
+    <coorStr>M 45.5,1 L 45.5,45 </coorStr>
+    <coorStr>M 2,7 L 22,7 </coorStr>
+    <coorStr>M 2,11 L 22,11 </coorStr>
+    <coorStr>M 2,15 L 22,15 </coorStr>
+    <coorStr>M 3,19 L 21.5,19 </coorStr>
+    <coorStr>M 3.5,23 L 21,23 </coorStr>
+    <coorStr>M 4,27 L 20.5,27 </coorStr>
+    <coorStr>M 4.5,31 L 20,31 </coorStr>
+    <coorStr>M 5,35 L 19.5,35 </coorStr>
+    <coorStr>M 5.5,39 L 19,39 </coorStr>
+    <coorStr>M 6,43 L 18.5,43 </coorStr>
+    <coorStr>M 28,7 L 41.5,7 </coorStr>
+    <coorStr>M 27.5,11 L 42,11 </coorStr>
+    <coorStr>M 27,15 L 42.5,15 </coorStr>
+    <coorStr>M 26.5,19 L 43,19 </coorStr>
+    <coorStr>M 26,23 L 43.5,23 </coorStr>
+    <coorStr>M 25.5,27 L 44,27 </coorStr>
+    <coorStr>M 25,31 L 45,31 </coorStr>
+    <coorStr>M 25,35 L 45,35 </coorStr>
+    <coorStr>M 25,39 L 45,39 </coorStr>
+    <coorStr>M 23,2 L 24,2 L 24,44 L 23,44 Z</coorStr>
+    <coorStr>M 24,43 L 46,43 </coorStr>
+  </wall>
+  <wall objectID="U-stairs2" x="426" y="415" objectClass="stairs">
+    <coorStr>M 1.5,1 L 1.5,45 </coorStr>
+    <coorStr>M 45.5,1 L 45.5,45 </coorStr>
+    <coorStr>M 2,3 L 22,3 </coorStr>
+    <coorStr>M 2,7 L 22,7 </coorStr>
+    <coorStr>M 2,11 L 22,11 </coorStr>
+    <coorStr>M 2,15 L 22,15 </coorStr>
+    <coorStr>M 3,19 L 21.5,19 </coorStr>
+    <coorStr>M 3.5,23 L 21,23 </coorStr>
+    <coorStr>M 4,27 L 20.5,27 </coorStr>
+    <coorStr>M 4.5,31 L 20,31 </coorStr>
+    <coorStr>M 5,35 L 19.5,35 </coorStr>
+    <coorStr>M 5.5,39 L 19,39 </coorStr>
+    <coorStr>M 28.5,3 L 41,3 </coorStr>
+    <coorStr>M 28,7 L 41.5,7 </coorStr>
+    <coorStr>M 27.5,11 L 42,11 </coorStr>
+    <coorStr>M 27,15 L 42.5,15 </coorStr>
+    <coorStr>M 26.5,19 L 43,19 </coorStr>
+    <coorStr>M 26,23 L 43.5,23 </coorStr>
+    <coorStr>M 25.5,27 L 44,27 </coorStr>
+    <coorStr>M 25,31 L 45,31 </coorStr>
+    <coorStr>M 25,35 L 45,35 </coorStr>
+    <coorStr>M 25,39 L 45,39 </coorStr>
+    <coorStr>M 23,2 L 24,2 L 24,44 L 23,44 Z</coorStr>
+    <coorStr>M 1,43 L 46,43 </coorStr>
+  </wall>
+  <wall objectID="5-Conf5AWall" x="192" y="219" orientation="135">
+    <coorStr>M 0,0 L 28,28 L 29,28 L 29,6 L 18,6 L 12,12</coorStr>
+  </wall>
+  <wall objectID="5-079BRWall" x="1012" y="205" orientation="-45">
+    <coorStr>M 0,0 L 0,12 L 29,41 L 42,28 L 42,0 L 40,0 L 40,15 A 15,15 0 0,1 25,0 Z</coorStr>
+  </wall>
+  <wall objectID="5-079wall" x="906" y="265">
+    <coorStr>M 35,1 L 5, 31 A 10,10 0 0,0 10,46 L 26,46 L 26,10 Z</coorStr>
+  </wall>
+  <wall objectID="5-079closet" x="950" y="243">
+    <coorStr>M 14,15 L 8,15 L 1,8 L 8,1 L 47,1 L 47,15 L 34,15 L 34,25 A 10,10 0 0,1 24,15 A 10,10 0 0,1 14,25 Z</coorStr>
+  </wall>
+  <wall objectID="5-mensBRoomWall" x="577" y="338">
+    <coorStr>M 1,25 L 1,1 L 38,1 M 60,25 L 60,1 L 58,1 L 103,1 A 10,10 0 0,0 113,11 L 113,1 L 116,1 L 116,25</coorStr>
+  </wall>
+  <wall objectID="5-Nstairwellwall" x="420" y="338">
+    <coorStr>M 1,1 L 11,1 M 29,1 L 62,1 L 62,25 L 62,1 L 77,1 L 77,6 A 15,15 0 0,1 92,21 L 77,21 L 77,25</coorStr>
+  </wall>
+  <wall objectID="5-Conf5BClosets" x="236" y="338">
+    <coorStr>M 28,0 L 24,0 L 24,15 L 8,15 L 24,15 L 24,50 L 24,0 L 23,0 A 15,15 0 0,0 8,15 L 8,16 L 0,16 A 8,8 0 0,0 8,24 A 8,8 0 0,0 0,32 L 8,32 L 8,33 L 0,33 A 8,8 0 0,0 8,41 A 8,8 0 0,0 0,49 L 8,49 L 8,50 L 57,50 L 57,0 L 55,0 L 55,15 A 15,15 0 0,1 40,0 Z</coorStr>
+  </wall>
+  <wall objectID="5-boardroomWwalls" x="202" y="324">
+    <coorStr>M 0,0 L 15,15 L 0,15 M 0,156 L 13,156</coorStr>
+  </wall>
+  <wall objectID="5-Wdivider" x="202" y="518">
+    <coorStr>M 0,0 L 15,0 L 15,13 A 13,13 0 0,0 28,0 L 42,0</coorStr>
+  </wall>
+  <wall objectID="5-012closet" x="73" y="519">
+    <coorStr>M 0,0 L 0,10 L 4,10 L 4,20 A 10,10 0 0,0 14,10 A 10,10 0 0,0 24,20 L 24,10 L 28,10 L 28,0 Z</coorStr>
+  </wall>
+  <wall objectID="5-019walls" x="151" y="662">
+    <coorStr>M 0,0 L 0,13 L 20,13</coorStr>
+  </wall>
+  <wall objectID="5-008walls" x="236" y="584">
+    <coorStr>M 0,0 L 10,0 M 0,180 L 10,180</coorStr>
+  </wall>
+  <wall objectID="5-Div2library" x="806" y="584">
+    <coorStr>M 0,102 L 0,0 L 31,0 L 31,77 L 39,77 L 39,71 L 39,76 L 31,76 L 31,102 M 140,85 L 140,70 L 155,70 L 105,120 M 90,135 L 45,180 L 45,165 L 60,165</coorStr>
+  </wall>
+  <wall objectID="5-Div2copyroom" x="922" y="487">
+    <coorStr>M 49,28 L 49,0 L 0,0 L 0,74 L 49,74 L 49,45</coorStr>
+  </wall>
+  <wall objectID="5-080wall" x="855" y="239">
+    <coorStr>M 6,0 L 0,6</coorStr>
+  </wall>
+  <wall objectID="5-059Walls" x="773" y="585">
+    <coorStr>M 0,0 L 8,0 M 0,28 L 8,28</coorStr>
+  </wall>
+  <wall objectID="5-058Walls" x="773" y="649">
+    <coorStr>M 0,0 L 8,0 M 0,28 L 8,28</coorStr>
+  </wall>
+  <wall objectID="5-057Walls" x="773" y="699">
+    <coorStr>M 0,0 L 8,0 M 0,65 L 8,65</coorStr>
+  </wall>
+  <wall objectID="5-ISTWall" x="342" y="511">
+    <coorStr>M 0,0 L 0,18 L 13,18 L 13,0</coorStr>
+  </wall>
+  <wall objectID="5-ISTWall2" x="315" y="543">
+    <coorStr>M 0,0 L 0,17</coorStr>
+  </wall>
+  <wall objectID="5-LRWalls" x="718" y="518">
+    <coorStr>M 0,0 L 14,0 M 0,11 L 14,11</coorStr>
+  </wall>
+  <wall objectID="5-016Wall" x="67" y="655">
+    <coorStr>M -1,1 L 0,0 L 16,0 L 17,1</coorStr>
+  </wall>
+  <wall objectID="5-035Wall" x="466" y="796">
+    <coorStr>M 0,0 L 25,0</coorStr>
+  </wall>
+  <wall objectID="5-050Wall" x="584" y="796">
+    <coorStr>M 0,0 L 25,0</coorStr>
+  </wall>
+</walls>

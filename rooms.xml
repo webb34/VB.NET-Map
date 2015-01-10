@@ -1,0 +1,1338 @@
+<?xml version="1.0"?>
+<rooms>
+  <room objectID="U-mensRoom" x="581" y="368" objectClass="bathroom" type="4">
+    <infoSet display="false" textX="20" textWidth="30">
+      <name displayName="Men's Room">
+      </name>
+    </infoSet>
+    <coorStr>M 15,15 L 22,15 L 22,0 L 109,0 L 109,54 L 42,54 L 42,28 L 40,28 L 40,32 L 17,32 L 17,30 L 14,30 L 0,30 A 15,15 0 0,1 15,15 Z</coorStr>
+  </room>
+  <room type="4" objectID="U-ladiesRoom" objectClass="bathroom" x="581" y="499">
+    <infoSet display="false" textX="18" textWidth="30">
+      <name displayName="Women's Room">
+      </name>
+    </infoSet>
+    <coorStr>M 16,45 A 15,15 0 0,1 1,30 L 16,30 L 18,30 L 18,28 L 43,28 L 43,1 L 110,1 L 110,56 L 43,56 L 43,46 L 40,46 L 40,60 L 18,60 L 18,45 L 16,45 Z </coorStr>
+  </room>
+  <room display="false" objectID="6-floorLabel" x="115" y="10" objectClass="floorLabel" type="4">
+    <infoSet display="false" textY="40">
+      <name displayName="6th Floor">
+      </name>
+    </infoSet>
+    <coorStr>M 1,106 L 106,1 L 187,82 L 659,82 L 740,1 L 845,106 L 726,225 L 120,225 Z</coorStr>
+  </room>
+  <room objectID="6-001" x="467" y="238" width="45" orientation="180" type="2">
+    <infoSet>
+      <phoneNum>327</phoneNum>
+      <name displayName="Smith1">John Smith1</name>
+    </infoSet>
+  </room>
+  <room objectID="6-002" x="419" y="238" height="48" width="70" orientation="270" type="1">
+    <infoSet>
+      <phoneNum>274</phoneNum>
+      <name displayName="Smith2">John Smith2</name>
+    </infoSet>
+  </room>
+  <room type="4" objectID="6-003" x="372" y="239" objectClass="openOffice">
+    <infoSet>
+      <name displayName="*******">Empty</name>
+    </infoSet>
+    <coorStr>M 0,0 L 0,68 L 46,68 L 46,0 Z</coorStr>
+  </room>
+  <room type="2" objectID="6-004" orientation="90" x="325" y="238" width="70" height="46">
+    <infoSet>
+      <name displayName="*******">Empty</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-005" orientation="180" x="277" y="238" width="48">
+    <infoSet>
+      <phoneNum>295</phoneNum>
+      <name displayName="Smith3">John Smith3</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-006" orientation="180" x="234" y="238" width="43">
+    <infoSet>
+      <phoneNum>321</phoneNum>
+      <name displayName="Smith4">John Smith4</name>
+    </infoSet>
+  </room>
+  <room type="3" objectID="6-007" orientation="225" x="156" y="204">
+    <infoSet>
+      <phoneNum>250</phoneNum>
+      <name displayName="Smith5">John Smith5</name>
+    </infoSet>
+    <coorStr>M 1,11 L 1,1 L 27,1 L 27,54 L 1,54</coorStr>
+  </room>
+  <room type="3" objectID="6-008" orientation="270" x="119" y="274">
+    <infoSet>
+      <phoneNum>302</phoneNum>
+      <name displayName="Smith6">John Smith6</name>
+    </infoSet>
+    <coorStr>M 1,3 L 1,37 L 24,37 L 51,10 L 44,3</coorStr>
+  </room>
+  <room objectID="6-009" x="65" y="122" orientation="225" type="4">
+    <infoSet>
+      <phoneNum>307</phoneNum>
+      <name displayName="Smith7">John Smith7</name>
+    </infoSet>
+    <coorStr>M 1,1 L 50,1 A 15,15 0 0,0 65,16 L 65,1 L 113,1 L 113,71 L 1,71 Z</coorStr>
+  </room>
+  <room type="4" objectID="6-010" orientation="135" x="2" y="171">
+    <infoSet>
+      <phoneNum>242</phoneNum>
+      <name displayName="Smith8">John Smith8</name>
+    </infoSet>
+    <coorStr>M 1,2 L 1,51 L 77,51 L 90.5,37.5 L 57.5,4.5 L 52,10 L 43,1</coorStr>
+  </room>
+  <room type="4" objectID="6-011" orientation="90" x="11" y="236">
+    <infoSet>
+      <phoneNum>284</phoneNum>
+      <name displayName="Smith9">John Smith9</name>
+    </infoSet>
+    <coorStr>M 19,1 L 19,15 A 15,15 0 0,0 37,1 L 57,1 L 57,71 L 9,71 L 9,24 L 1,24 L 1,11 L 11,1 L 19,1 Z</coorStr>
+  </room>
+  <room objectID="6-012" x="11" y="292" orientation="90" type="1">
+    <infoSet>
+      <phoneNum>297</phoneNum>
+      <name displayName="Smith10">John Smith10</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-013" orientation="270" x="110" y="325" height="67" width="53">
+    <infoSet>
+      <phoneNum>222</phoneNum>
+      <name displayName="Smith11">John Smith11</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-014" orientation="90" x="11" y="338">
+    <infoSet>
+      <phoneNum>329</phoneNum>
+      <name displayName="Smith12">John Smith12</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-015" orientation="90" x="11" y="384">
+    <infoSet>
+      <phoneNum>262</phoneNum>
+      <name displayName="Smith13">John Smith13</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-016" orientation="270" x="110" y="378" height="67" width="53">
+    <infoSet>
+      <phoneNum>358</phoneNum>
+      <name displayName="Smith14">John Smith14</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-018" orientation="90" x="11" y="430" width="47">
+    <infoSet>
+      <phoneNum>347</phoneNum>
+      <name displayName="Smith15">John Smith15</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-019" orientation="90" x="11" y="477" width="47">
+    <infoSet>
+      <name displayName="********">Uknown</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-020" orientation="90" x="11" y="524" width="47">
+    <infoSet>
+      <phoneNum>312</phoneNum>
+      <name displayName="Smith16">John Smith16</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-021" orientation="90" x="110" y="431" height="67" width="75">
+    <infoSet>
+      <phoneNum>462</phoneNum>
+      <name displayName="Smith17">John Smith17</name>
+    </infoSet>
+    <infoSet>
+      <phoneNum>205</phoneNum>
+      <name displayName="Smith18">John Smith18</name>
+    </infoSet>
+    <infoSet>
+      <phoneNum>298</phoneNum>
+      <name displayName="Smith19">John Smith19</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-022" orientation="90" x="110" y="506" height="67" width="53">
+    <infoSet>
+      <phoneNum>478</phoneNum>
+      <name displayName="Smith20">John Smith20</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-023" orientation="270" x="201" y="337" width="55" height="68">
+    <infoSet>
+      <name displayName="Smith23">John Smith23</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-024" orientation="270" x="201" y="392" width="58" height="68">
+    <infoSet>
+      <phoneNum>436</phoneNum>
+      <name displayName="Smith24">John Smith24</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-024ish" orientation="90" x="201" y="450" width="44" height="68">
+    <infoSet>
+      <phoneNum>235</phoneNum>
+      <name displayName="Smith25">John Smith25</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-025" orientation="180" x="201" y="494" width="48" height="64">
+    <infoSet>
+      <phoneNum>476</phoneNum>
+      <name displayName="Smith26">John Smith26</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-026" orientation="180" x="249" y="494" width="48" height="64">
+    <infoSet>
+      <phoneNum>468</phoneNum>
+      <name displayName="Smith27">John Smith27</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-STRCLST" orientation="180" x="328" y="499" height="60" width="45">
+  </room>
+  <room type="2" objectID="6-SrvrRm" orientation="180" x="373" y="499" height="60">
+    <infoSet>
+      <name displayName="Server Room">Server Room</name>
+    </infoSet>
+  </room>
+  <room type="3" objectID="6-027" x="198" y="593" height="67" width="53">
+    <infoSet>
+      <phoneNum>278</phoneNum>
+      <name displayName="Smith28">John Smith28</name>
+    </infoSet>
+    <coorStr>M11,1 L 1,1 L 1,38 L 36,38 L 36,1 L 26,1</coorStr>
+  </room>
+  <room type="3" objectID="6-028" x="234" y="593" height="67" width="53">
+    <infoSet>
+      <phoneNum>223</phoneNum>
+      <name displayName="Smith28">John Smith28</name>
+    </infoSet>
+    <coorStr>M11,1 L 1,1 L 1,38 L 36,38 L 36,1 L 26,1</coorStr>
+  </room>
+  <room type="3" objectID="6-030" x="270" y="593" height="67" width="53">
+    <infoSet>
+      <phoneNum>243</phoneNum>
+      <name displayName="Smith29">John Smith29</name>
+    </infoSet>
+    <coorStr>M11,1 L 1,1 L 1,38 L 36,38 L 36,1 L 26,1</coorStr>
+  </room>
+  <room type="4" objectID="6-031" objectClass="bigName" x="269" y="337">
+    <infoSet display="false">
+      <name displayName="Library" x="50" y="130">
+      </name>
+    </infoSet>
+    <coorStr>M 1,139 L 1,1 L 154,1 L 139,1 L 139,6 A 15,15 0 0,1 154,21 L 139,21 L 139,26 L 151,26 L 151,163 L 60,163 L 60,208 L 48,208 A 15,15 0 0,1 33,223 L 33,208 L 29,208 L 29,158 L 1,158</coorStr>
+  </room>
+  <room type="3" objectID="6-031A" x="270" y="338" orientation="90">
+    <infoSet>
+      <phoneNum>238</phoneNum>
+      <name displayName="Smith30">John Smith30</name>
+    </infoSet>
+    <coorStr>M 27,1 L 1,1 L 1,55 L 43,55 L 43,14</coorStr>
+  </room>
+  <room type="3" objectID="6-031B" x="270" y="380" orientation="90">
+    <infoSet>
+      <phoneNum>291</phoneNum>
+      <name displayName="Smith31">John Smith31</name>
+    </infoSet>
+    <coorStr>M 1,1 L 1,43 L 73,43 L 73,1 L 35,1</coorStr>
+  </room>
+  <room type="2" objectID="6-032" orientation="90" x="11" y="571" width="48">
+    <infoSet>
+      <phoneNum>434</phoneNum>
+      <name displayName="Smith32">John Smith32</name>
+    </infoSet>
+  </room>
+  <room type="3" objectID="6-033" x="110" y="614">
+    <infoSet>
+      <name displayName="********">Uknown</name>
+    </infoSet>
+    <coorStr>M 1,1 L 46,1 L 46,28 L 1,28 L 1,10</coorStr>
+  </room>
+  <room type="3" objectID="6-033sep" x="110" y="641" objectClass="seperator">
+    <coorStr>M 16,24 L 1,9 L 1,1 L 46,1 L 46,43 L 38,43</coorStr>
+  </room>
+  <room type="1" objectID="6-034" orientation="90" x="11" y="619">
+    <infoSet>
+      <phoneNum>354</phoneNum>
+      <name displayName="Smith33">John Smith33</name>
+    </infoSet>
+  </room>
+  <room type="4" objectID="6-035" orientation="45" x="3" y="624">
+    <infoSet textY="10">
+      <phoneNum>356</phoneNum>
+      <name displayName="Smith34">John Smith34</name>
+    </infoSet>
+    <coorStr>M 76,1 Q 76,16 91,16 L 91,1 L 94,1 L 94,71 L 15,71 L 3,59 L 61,1 Z</coorStr>
+  </room>
+  <room type="2" objectID="6-036" orientation="45" x="67" y="688" width="47">
+    <infoSet>
+      <phoneNum>204</phoneNum>
+      <name displayName="Smith35">John Smith35</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-037" orientation="45" x="100" y="721" width="47">
+    <infoSet>
+      <phoneNum>265</phoneNum>
+      <name displayName="Smith36">John Smith36</name>
+    </infoSet>
+  </room>
+  <room type="4" objectID="6-038" orientation="45" x="133" y="754">
+    <infoSet textX="-18" textY="-5">
+      <phoneNum>377</phoneNum>
+      <name displayName="Smith37">John Smith37</name>
+    </infoSet>
+    <coorStr>M 1,1 L 6,1 L 6,16 Q 21,16 21,1 L 37,1 L 91,55 L 75,71 L 1,71 Z</coorStr>
+  </room>
+  <room type="2" objectID="6-039" x="208" y="786">
+    <infoSet>
+      <phoneNum>421</phoneNum>
+      <name displayName="Smith38">John Smith38</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-040" x="254" y="786" width="47">
+    <infoSet>
+      <phoneNum>341</phoneNum>
+      <name displayName="Smith39">John Smith39</name>
+    </infoSet>
+  </room>
+  <room type="4" objectID="6-Conf6C" objectClass="confRoom" orientation="270" x="199" y="632">
+    <infoSet assignedWallPlate="0">
+      <name displayName="Conference Room 6C">Conference Room 6C</name>
+      <phoneNum>2039563438</phoneNum>
+      <ipAddress>192.168.1.58</ipAddress>
+    </infoSet>
+    <wallPlateNum>6A-R1-F06</wallPlateNum>
+    <coorStr>M 1,1 L 3,1 L 3,16 A 15,15 0 0,0 18,1 A 15,15 0 0,0 33,16 L 33,1 L 78,1 L 78,110 L 1,110 Z</coorStr>
+  </room>
+  <room type="1" objectID="6-041" orientation="180" x="233" y="709" width="75" height="40">
+    <infoSet>
+      <phoneNum>306</phoneNum>
+      <name displayName="Smith40">John Smith40</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-042" x="301" y="786" width="48">
+    <infoSet>
+      <phoneNum>479</phoneNum>
+      <name displayName="Smith41">John Smith41</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-043" x="349" y="786">
+    <infoSet>
+      <phoneNum>282</phoneNum>
+      <name displayName="Smith42">John Smith42</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-044" orientation="90" x="308" y="709" width="40" height="76">
+    <infoSet>
+      <phoneNum>305</phoneNum>
+      <name displayName="Smith43">John Smith43</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-045" orientation="90" x="308" y="665" height="76" width="44">
+    <infoSet>
+      <phoneNum>364</phoneNum>
+      <name displayName="Smith44">John Smith44</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-046" orientation="90" x="308" y="624" width="41" height="76">
+    <infoSet>
+      <phoneNum>258</phoneNum>
+      <name displayName="Smith45">John Smith45</name>
+    </infoSet>
+  </room>
+  <room type="4" objectID="6-047" orientation="90" x="308" y="582">
+    <infoSet>
+      <name displayName="********">Uknown</name>
+    </infoSet>
+    <coorStr>M 25,1 A 15,15 0 0,0 40,16 L 40,1 L 43,1 L 43,77 L 1,77 L 1,11 A 10,10 0 0,1 11,1 Z</coorStr>
+  </room>
+  <room type="3" objectID="6-048" orientation="270" x="418" y="612">
+    <infoSet>
+      <phoneNum>333</phoneNum>
+      <name displayName="Smith46">John Smith46</name>
+    </infoSet>
+    <coorStr>M 18,1 L 36,1 L 36,48 L 1,48 L 1,1</coorStr>
+  </room>
+  <room type="3" objectID="6-049" orientation="270" x="418" y="647">
+    <infoSet>
+      <phoneNum>283</phoneNum>
+      <name displayName="Smith47">John Smith47</name>
+    </infoSet>
+    <coorStr>M 36,1 L 36,48 L 1,48 L 1,1 L 18,1</coorStr>
+  </room>
+  <room type="3" objectID="6-050" orientation="270" x="418" y="681">
+    <infoSet>
+      <name displayName="********">Uknown</name>
+    </infoSet>
+    <coorStr>M 18,1 L 36,1 L 36,48 L 1,48 L 1,1</coorStr>
+  </room>
+  <room type="3" objectID="6-051" orientation="270" x="418" y="716">
+    <infoSet>
+      <phoneNum>368</phoneNum>
+      <name displayName="Smith48">John Smith48</name>
+    </infoSet>
+    <coorStr>M 36,1 L 36,48 L 1,48 L 1,1 L 18,1</coorStr>
+  </room>
+  <room objectID="6-052" x="395" y="786" width="47" type="2">
+    <infoSet>
+      <phoneNum>266</phoneNum>
+      <name displayName="Smith49">John Smith49</name>
+    </infoSet>
+  </room>
+  <room objectID="6-053" x="442" y="790" type="4">
+    <infoSet>
+      <phoneNum>311</phoneNum>
+      <name displayName="Smith50">John Smith50</name>
+    </infoSet>
+    <coorStr>M 1,12 L 5,12 L 5,22 A 10,10 0 0,0 15,12 L 16,12 L 16,5 L 16,12 L 25,12 L 25,26 L 72,26 L 72,71 L 1,71 Z</coorStr>
+  </room>
+  <room type="3" objectID="6-054" orientation="270" x="498" y="726">
+    <infoSet>
+      <phoneNum>443</phoneNum>
+      <name displayName="Smith51">John Smith51</name>
+    </infoSet>
+    <coorStr>M 32,1 L 1,1 L 1,39 L 38,39</coorStr>
+  </room>
+  <room type="3" objectID="6-055" orientation="270" x="498" y="689">
+    <infoSet>
+      <phoneNum>263</phoneNum>
+      <name displayName="Smith52">John Smith52</name>
+    </infoSet>
+    <coorStr>M 8,1 L 38,1 L 38,39 L 1,39</coorStr>
+  </room>
+  <room type="3" objectID="6-056" orientation="270" x="498" y="652">
+    <infoSet>
+      <phoneNum>353</phoneNum>
+      <name displayName="Smith53">John Smith53</name>
+    </infoSet>
+    <coorStr>M 32,1 L 1,1 L 1,39 L 38,39</coorStr>
+  </room>
+  <room type="3" objectID="6-057" orientation="270" x="498" y="615">
+    <infoSet>
+      <phoneNum>384</phoneNum>
+      <name displayName="Smith54">John Smith54</name>
+    </infoSet>
+    <coorStr>M 8,1 L 38,1 L 38,39 L 1,39</coorStr>
+  </room>
+  <room type="2" objectID="6-058" x="513" y="786" width="69">
+    <infoSet>
+      <phoneNum>247</phoneNum>
+      <name displayName="Smith55">John Smith55</name>
+    </infoSet>
+  </room>
+  <room type="3" objectID="6-059" orientation="90" x="536" y="726">
+    <infoSet>
+      <phoneNum>442</phoneNum>
+      <name displayName="Smith56">John Smith56</name>
+    </infoSet>
+    <coorStr>M 8,1 L 38,1 L 38,39 L 1,39</coorStr>
+  </room>
+  <room type="3" objectID="6-060" orientation="90" x="536" y="689">
+    <infoSet>
+      <phoneNum>399</phoneNum>
+      <name displayName="Smith57">John Smith57</name>
+    </infoSet>
+    <coorStr>M 32,1 L 1,1 L 1,39 L 38,39</coorStr>
+  </room>
+  <room type="3" objectID="6-061" orientation="90" x="536" y="652">
+    <infoSet>
+      <phoneNum>264</phoneNum>
+      <name displayName="Smith58">John Smith58</name>
+    </infoSet>
+    <coorStr>M 8,1 L 38,1 L 38,39 L 1,39</coorStr>
+  </room>
+  <room type="3" objectID="6-062" orientation="90" x="536" y="615">
+    <infoSet>
+      <phoneNum>374</phoneNum>
+      <name displayName="Smith59">John Smith59</name>
+    </infoSet>
+    <coorStr>M 32,1 L 1,1 L 1,39 L 38,39</coorStr>
+  </room>
+  <room type="4" objectID="6-kitchen" x="582" y="785">
+    <infoSet display="false">
+      <name displayName="Kitchen">
+      </name>
+    </infoSet>
+    <coorStr>M 32,5 L 32,12 L 1,12 L 1,71 L 49,71 L 49,0</coorStr>
+  </room>
+  <room type="4" objectID="6-063" x="644" y="614">
+    <coorStr>M 1,1 L 41,1 L 41,18 L 44,18 A 15,15 0 0,1 59,3 L 59,18 L 62,18 L 62,1 L 83,1 L 83,16 L 98,16 A 15,15 0 0,1 83,31 M 83,1 L 136,1 L 136,53 L 121,53 L 121,38 A 15,15 0 0,0 106,53 L 79,53 M 79,99 L 91,99 L 91,112 L 136,112 L 136,116 L 189,116 L 189,138 A 15,15 0 0,1 174,149 L 109,149 A 15,15 0 0,0 94,134 L 94,149 L 91,149 L 91,112 M 83,31 L 83,46 L 74,46 M 59,46 L 27,46 M 12,46 L 1,46 L 1,45 M 1,26 L 1,1 L 2,1</coorStr>
+  </room>
+  <room type="2" objectID="6-063A" orientation="90" x="595" y="614" width="45" height="49">
+    <infoSet>
+      <phoneNum>427</phoneNum>
+      <name displayName="Smith60">John Smith60</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-063B" x="595" y="659" width="80" height="53">
+    <infoSet textY="-10">
+      <phoneNum>316</phoneNum>
+      <name displayName="Smith61">John Smith61</name>
+    </infoSet>
+    <infoSet textY="10">
+      <phoneNum>319</phoneNum>
+      <name displayName="Smith62">John Smith62</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-063C" x="675" y="659" width="45" height="53">
+    <infoSet>
+      <phoneNum>382</phoneNum>
+      <name displayName="Smith63">John Smith63</name>
+    </infoSet>
+  </room>
+  <room type="3" objectID="6-064" orientation="270" x="593" y="713">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+    <coorStr>M 39,1 L 51,1 L 51,36 L 1,36 L 1,21 A 20,20 0 0,1 21,1 L 30,1</coorStr>
+  </room>
+  <room type="3" objectID="6-065" orientation="180" x="628" y="713">
+    <infoSet>
+      <phoneNum>340</phoneNum>
+      <name displayName="Smith64">John Smith64</name>
+    </infoSet>
+    <coorStr>M 11,1 L 1,1 L 1,51 L 36,51 L 36,1 L 22,1</coorStr>
+  </room>
+  <room type="3" objectID="6-066" orientation="180" x="663" y="713">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+    <coorStr>M 11,1 L 1,1 L 1,51 L 36,51 L 36,1 L 22,1</coorStr>
+  </room>
+  <room type="3" objectID="6-067" orientation="180" x="698" y="713">
+    <infoSet>
+      <phoneNum>373</phoneNum>
+      <name displayName="Smith65">John Smith65</name>
+    </infoSet>
+    <coorStr>M 11,1 L 1,1 L 1,51 L 36,51 L 36,1 L 22,1</coorStr>
+  </room>
+  <room type="1" objectID="6-068" x="630" y="786">
+    <infoSet>
+      <phoneNum>472</phoneNum>
+      <name displayName="Smith66">John Smith66</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-069" x="676" y="786" width="48">
+    <infoSet>
+      <phoneNum>338</phoneNum>
+      <name displayName="Smith67">John Smith67</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-070" x="724" y="786">
+    <infoSet>
+      <phoneNum>213</phoneNum>
+      <name displayName="Smith68">John Smith68</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-071" x="770" y="786">
+    <infoSet>
+      <phoneNum>232</phoneNum>
+      <name displayName="Smith69">John Smith69</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-072" x="816" y="786" width="49">
+    <infoSet>
+      <phoneNum>314</phoneNum>
+      <name displayName="Smith70">John Smith70</name>
+    </infoSet>
+  </room>
+  <room type="4" objectID="6-073" orientation="315" x="827" y="753">
+    <infoSet textX="15">
+      <phoneNum>371</phoneNum>
+      <name displayName="Smith71">John Smith71</name>
+    </infoSet>
+    <coorStr>M 73,1 Q 73,17 88,17 L 88,1 L 93,1 L 93,71 L 17,71 L 1,55 L 55,1 Z</coorStr>
+  </room>
+  <room type="1" objectID="6-074" orientation="90" x="779" y="671" width="58" height="53">
+    <infoSet>
+      <phoneNum>224</phoneNum>
+      <name displayName="Smith72">John Smith72</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-075" orientation="90" x="779" y="614" width="57" height="53">
+    <infoSet>
+      <phoneNum>335</phoneNum>
+      <name displayName="Smith73">John Smith73</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-076" orientation="180" x="767" y="540" width="65" height="48">
+    <infoSet>
+      <phoneNum>277</phoneNum>
+      <name displayName="Smith74">John Smith74</name>
+    </infoSet>
+  </room>
+  <room type="4" objectID="6-077" orientation="180" x="716" y="519">
+    <infoSet>
+      <phoneNum>211</phoneNum>
+      <name displayName="Smith75">John Smith75</name>
+    </infoSet>
+    <coorStr>M 1,1 L 22,1 A 15,15 0 0,0 37,16 L 37,1 L 52,1 L 52,70 L 1,70 Z</coorStr>
+  </room>
+  <room type="2" objectID="6-078" orientation="315" x="892" y="720">
+    <infoSet>
+      <phoneNum>386</phoneNum>
+      <name displayName="Smith76">John Smith76</name>
+    </infoSet>
+  </room>
+  <room type="3" objectID="6-079" orientation="315" x="882" y="663">
+    <infoSet>
+      <phoneNum>336</phoneNum>
+      <name displayName="Smith77">John Smith77</name>
+    </infoSet>
+    <coorStr>M 11,1 L 1,1 L 1,29 L 39,29 L 39,1</coorStr>
+  </room>
+  <room type="4" objectID="6-Conf6B" objectClass="confRoom" orientation="270" x="867" y="533">
+    <infoSet>
+      <name displayName="Conference Room 6B">Conference Room 6B</name>
+    </infoSet>
+    <coorStr>M 1,1 L 85,1 A 15,15 0 0,0 100,16 L 100,1 L 103,1 L 103,74 L 1,74 Z</coorStr>
+  </room>
+  <room type="1" objectID="6-080" orientation="315" x="925" y="687">
+    <infoSet>
+      <phoneNum>236</phoneNum>
+      <name displayName="Smith78">John Smith78</name>
+    </infoSet>
+  </room>
+  <room type="4" objectID="6-081" orientation="315" x="950.5" y="616">
+    <infoSet textY="10">
+      <phoneNum>237</phoneNum>
+      <name displayName="Smith79">John Smith79</name>
+    </infoSet>
+    <coorStr>M 1,23 L 23,1 L 91,69 L 79,81 L 1,81 Z</coorStr>
+  </room>
+  <room type="4" objectID="6-082" orientation="270" x="966" y="594">
+    <infoSet>
+      <phoneNum>349</phoneNum>
+      <name displayName="Smith80">John Smith80</name>
+    </infoSet>
+    <coorStr>M 1,1 L 56,1 L 59,4 A 15,15 0 0,0 59,25 L 69,14 L 71,16 L 71,97 L 1,97 L 1,53 A 11,11 0 0,0 1,31 Z</coorStr>
+  </room>
+  <room type="4" objectID="6-083" orientation="270" x="966" y="524">
+    <infoSet>
+      <phoneNum>383</phoneNum>
+      <name displayName="Smith81">John Smith81</name>
+    </infoSet>
+    <coorStr>M 1,16 L 16,1 L 56,1 L 59,4 A 15,15 0 0,0 59,25 L 69,14 L 71,16 L 71,97 L 1,97Z</coorStr>
+  </room>
+  <room type="4" objectID="6-084" orientation="270" x="966" y="453">
+    <infoSet>
+      <phoneNum>256</phoneNum>
+      <name displayName="Smith82">John Smith82</name>
+    </infoSet>
+    <coorStr>M 1,16 L 2,15 L 12.5,27.5 A 15,15 0 0,0 12.5,4.5 L 16,1 L 56,1 L 72,1 L 72,97 L 1,97 Z</coorStr>
+  </room>
+  <room type="4" objectID="6-085A" orientation="0" x="872" y="492">
+    <infoSet>
+      <phoneNum>313</phoneNum>
+      <name displayName="Smith83">John Smith83</name>
+    </infoSet>
+    <coorStr>M 1,9 L 1,41 L 58,41 L 58,1</coorStr>
+  </room>
+  <room type="4" objectID="6-086" orientation="180" x="872" y="375">
+    <infoSet>
+      <phoneNum>217</phoneNum>
+      <name displayName="Smith84">John Smith84</name>
+    </infoSet>
+    <coorStr>M 1,1 L 1,41 L 58,41 L 58,10</coorStr>
+  </room>
+  <room type="4" objectID="6-Conf6A" objectClass="confRoom" orientation="270" x="867" y="282">
+    <infoSet>
+      <name displayName="Conference Room 6A">Conference Room 6A</name>
+    </infoSet>
+    <coorStr>M 1,1 L 4,1 L 4,16 A 15,15 0 0,0 19,1 L 78,1 A 15,15 0 0,1 93,16 L 93,74 L 1,74 Z</coorStr>
+  </room>
+  <room type="4" objectID="6-087" orientation="270" x="966" y="383">
+    <infoSet>
+      <phoneNum>330</phoneNum>
+      <name displayName="Smith85">John Smith85</name>
+    </infoSet>
+    <coorStr>M 1,1 L 56,1 L 59,4 A 15,15 0 0,0 59,25 L 69,14 L 71,16 L 71,97 L 1,97 Z</coorStr>
+  </room>
+  <room type="4" objectID="6-088" orientation="270" x="966" y="313">
+    <infoSet>
+      <phoneNum>208</phoneNum>
+      <name displayName="Smith86">John Smith86</name>
+    </infoSet>
+    <coorStr>M 1,16 L 2,15 L 12.5,27.5 A 15,15 0 0,0 12.5,4.5 L 16,1 L 56,1 L 71,17 L 71,97 L 1,97 Z</coorStr>
+  </room>
+  <room objectID="6-089" x="966" y="241" orientation="270" type="4">
+    <infoSet>
+      <phoneNum>267</phoneNum>
+      <name displayName="Smith87">John Smith87</name>
+    </infoSet>
+    <coorStr>M 1,16 L 2,15 L 12.5,27.5 A 15,15 0 0,0 12.5,4.5 L 16,1 L 73,1 L 73,31 A 11,11 0 0,0 73,53 L 73,97 L 1,97 Z</coorStr>
+  </room>
+  <room objectID="6-090" x="896" y="122" orientation="225" type="4">
+    <infoSet>
+      <phoneNum>342</phoneNum>
+      <name displayName="Smith88">John Smith88</name>
+    </infoSet>
+    <coorStr>M 1,71 L 1,33 L 33,1 L 35,1 L 35,15 A 15,15 0 0,0 50,1 L 113,1 L 113,89 L 1,89 L 1,86</coorStr>
+  </room>
+  <room type="3" objectID="6-091" orientation="135" x="848" y="187">
+    <infoSet>
+      <phoneNum>215</phoneNum>
+      <name displayName="Smith89">John Smith89</name>
+    </infoSet>
+    <coorStr>M 46,60 L 1,60 L 1,1 L 42,1 L 69,28 L 69,40</coorStr>
+  </room>
+  <room type="2" objectID="6-092" orientation="90" x="746" y="238" width="70" height="95">
+    <infoSet>
+      <phoneNum>225</phoneNum>
+      <name displayName="Smith89">John Smith89</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-093" orientation="90" x="753" y="337" height="79">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-094" orientation="90" x="753" y="383" height="79">
+    <infoSet>
+      <phoneNum>221</phoneNum>
+      <name displayName="Smith90">John Smith90</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-095" orientation="0" x="767" y="487" width="65" height="53">
+    <infoSet>
+      <phoneNum>260</phoneNum>
+      <name displayName="Smith91">John Smith91</name>
+    </infoSet>
+  </room>
+  <room type="3" objectID="6-096" orientation="270" x="715" y="337">
+    <infoSet>
+      <phoneNum>304</phoneNum>
+      <name displayName="Smith92">John Smith92</name>
+    </infoSet>
+    <coorStr>M 1,1 L 1,38 L 51,38 L 51,1 L 25,1</coorStr>
+  </room>
+  <room type="4" objectID="6-096A" orientation="180" x="716" y="388">
+    <infoSet>
+      <phoneNum>286</phoneNum>
+      <name displayName="Smith93">John Smith93</name>
+    </infoSet>
+    <coorStr>M 1,1 L 1,57 L 38,57 L 38,1 L 16,1</coorStr>
+  </room>
+  <room type="3" objectID="6-096B" orientation="270" x="754" y="430">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+    <coorStr>M 15,1 L 1,1 L 1,34 L 38,34 L 38,1 L 31,1</coorStr>
+  </room>
+  <room type="3" objectID="6-096C" orientation="270" x="735" y="487">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+    <coorStr>M 1,1 L 1,32 L 32,32 L 32,1 L 20,1</coorStr>
+  </room>
+  <room type="1" objectID="6-097" orientation="180" x="700" y="238">
+    <infoSet>
+      <phoneNum>219</phoneNum>
+      <name displayName="Smith94">John Smith94</name>
+    </infoSet>
+  </room>
+  <room type="2" objectID="6-098" orientation="180" x="652" y="238" width="48">
+    <infoSet>
+      <phoneNum>301</phoneNum>
+      <name displayName="Smith95">John Smith95</name>
+    </infoSet>
+  </room>
+  <room type="1" objectID="6-099" orientation="180" x="582" y="238" width="70">
+    <infoSet>
+      <phoneNum>207</phoneNum>
+      <name displayName="Smith96">John Smith96</name>
+    </infoSet>
+  </room>
+  <room display="false" objectID="5-floorLabel" x="115" y="10" objectClass="floorLabel" type="4">
+    <infoSet display="false" textY="40">
+      <name displayName="5th Floor">
+      </name>
+    </infoSet>
+    <coorStr>M 1,106 L 106,1 L 187,82 L 659,82 L 740,1 L 845,106 L 726,225 L 120,225 Z</coorStr>
+  </room>
+  <room objectID="5-001" x="469" y="239" orientation="180" type="3" objectClass="openOffice">
+    <infoSet>
+      <phoneNum>420</phoneNum>
+      <name displayName="Smith97">John Smith97</name>
+    </infoSet>
+    <coorStr>M 0,0 L 66,0 L 66,44 L 0,44</coorStr>
+  </room>
+  <room objectID="5-002" x="421" y="238" orientation="180" type="4">
+    <infoSet>
+      <phoneNum>201</phoneNum>
+      <name displayName="Smith98">John Smith98</name>
+    </infoSet>
+    <coorStr>M 27,0 A 15,15 0 0,0 42,15 L 42,0 L 47,0 L 47,70 L 0,70 L 0,15 A 15,15 0 0,1 15,0 Z</coorStr>
+  </room>
+  <room objectID="5-003" x="374" y="238" width="47" orientation="180" type="2">
+    <infoSet>
+      <phoneNum>469</phoneNum>
+      <name displayName="Smith99">John Smith99</name>
+    </infoSet>
+  </room>
+  <room objectID="5-005" x="280" y="238" width="94" orientation="180" type="1">
+    <infoSet>
+      <phoneNum>451</phoneNum>
+      <name displayName="Smith100">John Smith100</name>
+    </infoSet>
+  </room>
+  <room objectID="5-007" x="233" y="238" width="47" orientation="180" type="1">
+    <infoSet>
+      <phoneNum>440</phoneNum>
+      <name displayName="Smith101">John Smith101</name>
+    </infoSet>
+  </room>
+  <room objectID="5-004" x="341" y="338" type="4">
+    <infoSet>
+      <phoneNum>458</phoneNum>
+      <name displayName="Smith102">John Smith102</name>
+    </infoSet>
+    <coorStr>M 0,0 L 5,0 L 5,15 A 15,15 0 0,0 20,0 L 79,0 L 79,38 L 57,38 L 57,57 L 14,57 L 14,50 L 0,50 Z</coorStr>
+  </room>
+  <room objectID="5-006" x="293" y="338" height="50" width="48" type="2">
+    <infoSet>
+      <phoneNum>252</phoneNum>
+      <name displayName="Smith103">John Smith103</name>
+    </infoSet>
+  </room>
+  <room objectID="5-Conf5A" x="2" y="121" orientation="135" type="4">
+    <infoSet textY="-30">
+      <name displayName="Conference Room 5A">Conference Room 5A</name>
+    </infoSet>
+    <coorStr>M 58,10 L 53,10 L 53,0 A 10,10 0 0,0 43,10 A 10,10 0 0,0 33,0 L 33,10 L 0,10 L 0,148 L 147,148 L 160,135 L 58,33 Z</coorStr>
+  </room>
+  <room objectID="5-BoardRoom" x="11" y="243" orientation="90" type="4">
+    <infoSet>
+      <name displayName="Boardroom">Boardroom</name>
+    </infoSet>
+    <coorStr>M 34,23 L 0,57 L 0,201 L 282,201 L 282,139 L 276,139 L 276,10 L 266,10 L 266,0 A 10,10 0 0,0 256,10 A 10,10 0 0,0 246,0 L 246,10 L 81,10 L 81,23 L 64,23 L 64,13 A 10,10 0 0,0 54,23 A 10,10 0 0,0 44,13 L 44,23 Z</coorStr>
+  </room>
+  <room objectID="5-Conf5B" x="244" y="388" orientation="270" type="4">
+    <infoSet>
+      <name displayName="Conference Room 5B">Conference Room 5B</name>
+    </infoSet>
+    <coorStr>M 0,0 L 3,0 L 3,15 A 15,15 0 0,0 18,0 L 107,0 A 15,15 0 0,0 121,15 L 121,0 L 124,0 L 124,111 L 0,111 Z</coorStr>
+  </room>
+  <room objectID="5-008" x="173" y="590" orientation="90" type="3">
+    <infoSet>
+      <phoneNum>395</phoneNum>
+      <name displayName="Smith104">John Smith104</name>
+    </infoSet>
+    <coorStr>M 13,0 L 0,0 L 0,41 L 41,41 L 41,0 L 28,0</coorStr>
+  </room>
+  <room objectID="5-009" x="173" y="549" orientation="90" type="3">
+    <infoSet>
+      <phoneNum>432</phoneNum>
+      <name displayName="Smith105">John Smith105</name>
+    </infoSet>
+    <coorStr>M 13,0 L 0,0 L 0,41 L 41,41 L 41,0 L 28,0</coorStr>
+  </room>
+  <room objectID="5-010" x="132" y="549" type="3">
+    <infoSet>
+      <phoneNum>318</phoneNum>
+      <name displayName="Smith106">John Smith106</name>
+    </infoSet>
+    <coorStr>M 13,0 L 0,0 L 0,41 L 41,41 L 41,0 L 28,0</coorStr>
+  </room>
+  <room objectID="5-011" x="91" y="549" orientation="270" type="3">
+    <infoSet textY="8">
+      <phoneNum>367</phoneNum>
+      <name displayName="Smith107">John Smith107</name>
+    </infoSet>
+    <coorStr>M 0,0 L 0,0 L 0,41 L 41,41 L 41,0 L 15,0</coorStr>
+  </room>
+  <room objectID="5-014" x="91" y="590" orientation="180" type="3">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+    <coorStr>M 13,0 L 0,0 L 0,41 L 41,41 L 41,0 L 28,0</coorStr>
+  </room>
+  <room objectID="5-015" x="132" y="590" orientation="180" type="3">
+    <infoSet>
+      <phoneNum>380</phoneNum>
+      <name displayName="Smith108">John Smith108</name>
+    </infoSet>
+    <infoSet>
+      <phoneNum>271</phoneNum>
+      <name displayName="Smith109">John Smith109</name>
+    </infoSet>
+    <coorStr>M 5,0 L 0,0 L 0,41 L 41,41 L 41,0 L 20,0</coorStr>
+  </room>
+  <room objectID="5-012" x="11" y="525" height="54" width="72" orientation="90" type="4">
+    <infoSet>
+      <phoneNum>346</phoneNum>
+      <name displayName="Smith110">John Smith110</name>
+    </infoSet>
+    <coorStr>M 0,0 L 0,52 L 70,52 L 70,0 L 25,0 A 15,15 0 0,1 10,15 L 10,0 Z</coorStr>
+  </room>
+  <room objectID="5-013" x="11" y="595" height="62" width="47" orientation="90" type="1">
+    <infoSet>
+      <phoneNum>362</phoneNum>
+      <name displayName="Smith111">John Smith111</name>
+    </infoSet>
+  </room>
+  <room objectID="5-016" x="-9" y="612" orientation="45" type="4">
+    <infoSet>
+      <phoneNum>226</phoneNum>
+      <name displayName="Smith112">John Smith112</name>
+    </infoSet>
+    <coorStr>M 43,0 L 0,43 L 28,71 L 62,71 L 62,0</coorStr>
+  </room>
+  <room objectID="5-017" x="35" y="656" width="47" orientation="45" type="1">
+    <infoSet>
+      <phoneNum>229</phoneNum>
+      <name displayName="Smith113">John Smith113</name>
+    </infoSet>
+  </room>
+  <room objectID="5-018" x="68" y="689" width="47" orientation="45" type="2">
+    <infoSet>
+      <phoneNum>202</phoneNum>
+      <name displayName="Smith114">John Smith114</name>
+    </infoSet>
+  </room>
+  <room objectID="5-020" x="101" y="722" width="48" orientation="45" type="1">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+  </room>
+  <room objectID="5-021" x="135" y="756" orientation="45" type="2">
+    <infoSet>
+      <phoneNum>268</phoneNum>
+      <name displayName="Smith115">John Smith115</name>
+    </infoSet>
+  </room>
+  <room objectID="5-019" x="172" y="675" orientation="90" type="3">
+    <infoSet>
+      <phoneNum>361</phoneNum>
+      <name displayName="Smith116">John Smith116</name>
+    </infoSet>
+    <coorStr>M 13,0 L 0,0 L 0,42 L 41,42 L 41,0 L 28,0</coorStr>
+  </room>
+  <room objectID="5-022" x="167" y="788" type="4">
+    <infoSet textX="10" textY="5">
+      <phoneNum>355</phoneNum>
+      <name displayName="Smith117">John Smith117</name>
+    </infoSet>
+    <coorStr>M 50,0 L 0,50 L 18,68 L 66,68 L 66,20</coorStr>
+  </room>
+  <room objectID="5-023" x="233" y="788" height="48" width="68" orientation="-90" type="2">
+    <infoSet>
+      <phoneNum>360</phoneNum>
+      <name displayName="Smith118">John Smith118</name>
+    </infoSet>
+  </room>
+  <room objectID="5-024" x="281" y="788" width="71" type="4">
+    <infoSet>
+      <phoneNum>288</phoneNum>
+      <name displayName="Smith119">John Smith119</name>
+    </infoSet>
+    <coorStr>M 0,0 L 0,68 L 69,68 L 69,23 L 58,23 L 58,0 L 55,0 L 55,15 A 15,15 0 0,1 40,0 Z</coorStr>
+  </room>
+  <room objectID="5-033" x="350" y="788" type="4">
+    <infoSet>
+      <phoneNum>389</phoneNum>
+      <name displayName="Smith120">John Smith120</name>
+    </infoSet>
+    <coorStr>M 5,0 L 5,23 L 0,23 L 0,68 L 47,68 L 47,0 L 23,0 A 15,15 0 0,1 8,15 L 8,0 Z</coorStr>
+  </room>
+  <room objectID="5-025" x="246" y="719" width="45" orientation="90" type="1">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+  </room>
+  <room objectID="5-026" x="246" y="674" width="45" orientation="90" type="2">
+    <infoSet>
+      <phoneNum>326</phoneNum>
+      <name displayName="Smith121">John Smith121</name>
+    </infoSet>
+  </room>
+  <room objectID="5-027" x="246" y="629" width="45" orientation="90" type="1">
+    <infoSet>
+      <phoneNum>332</phoneNum>
+      <name displayName="Smith122">John Smith122</name>
+    </infoSet>
+  </room>
+  <room objectID="5-028" x="246" y="584" width="45" orientation="90" type="2">
+    <infoSet>
+      <phoneNum>446</phoneNum>
+      <name displayName="Smith123">John Smith123</name>
+    </infoSet>
+  </room>
+  <room objectID="5-029" x="337" y="584" height="68" width="45" orientation="-90" type="1">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+  </room>
+  <room objectID="5-030" x="337" y="629" orientation="-90" type="4">
+    <infoSet>
+      <phoneNum>467</phoneNum>
+      <name displayName="Smith124">John Smith124</name>
+    </infoSet>
+    <coorStr>M 16,0 L 16,16 L 0,16 L 0,68 L 45,68 L 45,0 L 40,0 L 40,15 A 15,15 0 0,1 25,0 Z</coorStr>
+  </room>
+  <room objectID="5-031" x="337" y="674" height="68" width="45" orientation="-90" type="1">
+    <infoSet>
+      <phoneNum>447</phoneNum>
+      <name displayName="Smith125">John Smith125</name>
+    </infoSet>
+  </room>
+  <room objectID="5-032" x="337" y="719" height="68" width="45" orientation="-90" type="2">
+    <infoSet>
+      <phoneNum>426</phoneNum>
+      <name displayName="Smith126">John Smith126</name>
+    </infoSet>
+  </room>
+  <room objectID="5-034" x="397" y="788" height="68" type="2">
+    <infoSet>
+      <phoneNum>254</phoneNum>
+      <name displayName="Smith127">John Smith127</name>
+    </infoSet>
+  </room>
+  <room objectID="5-035" x="443" y="788" type="4">
+    <infoSet>
+      <phoneNum>447</phoneNum>
+      <name displayName="Smith128">John Smith128</name>
+    </infoSet>
+    <coorStr>M 0,0 L 0,68 L 48,68 L 48,23 L 23,23 L 23,0 L 20,0 A 15,15 0 0,1 5,15 L 5,0 Z</coorStr>
+  </room>
+  <room objectID="5-036" x="405" y="719" width="45" orientation="90" type="1">
+    <infoSet>
+      <phoneNum>393</phoneNum>
+      <name displayName="Smith129">John Smith129</name>
+    </infoSet>
+  </room>
+  <room objectID="5-037" x="405" y="674" width="45" orientation="90" type="2">
+    <infoSet>
+      <phoneNum>424</phoneNum>
+      <name displayName="Smith130">John Smith130</name>
+    </infoSet>
+  </room>
+  <room objectID="5-039" x="405" y="584" width="45" orientation="90" type="2">
+    <infoSet>
+      <phoneNum>214</phoneNum>
+      <name displayName="Smith131">John Smith131</name>
+    </infoSet>
+  </room>
+  <room objectID="5-038" x="405" y="629" orientation="90" type="4">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+    <coorStr>M 0,0 L 0,70 L 45,70 L 45,9 L 30,9 L 30,0 L 20,0 A 15,15 0 0,1 5,15 L 5,0 Z</coorStr>
+  </room>
+  <room objectID="5-040" x="500" y="682" orientation="-90" type="3">
+    <infoSet>
+      <phoneNum>239</phoneNum>
+      <name displayName="Smith132">John Smith132</name>
+    </infoSet>
+    <infoSet textX="0">
+      <phoneNum>388</phoneNum>
+      <name displayName="Smith133">John Smith133</name>
+    </infoSet>
+    <coorStr>M 25,0 L 0,0 L 0,35 L 74,35 L 74,0 L 49,0</coorStr>
+  </room>
+  <room objectID="5-042" x="491" y="788" height="68" width="47" type="2">
+    <infoSet>
+      <phoneNum>387</phoneNum>
+      <name displayName="Smith134">John Smith134</name>
+    </infoSet>
+  </room>
+  <room objectID="5-043" x="538" y="788" height="68" type="1">
+    <infoSet>
+      <phoneNum>469</phoneNum>
+      <name displayName="Smith135">John Smith135</name>
+    </infoSet>
+  </room>
+  <room objectID="5-050" x="584" y="788" type="4">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+    <coorStr>M 24,0 L 24,23 L 0,23 L 0,68 L 48,68 L 48,0 L 43,0 L 43,15 A 15,15 0 0,1 28,0 Z</coorStr>
+  </room>
+  <room objectID="5-045" x="535" y="682" orientation="90" type="3">
+    <infoSet textX="5">
+      <phoneNum>376</phoneNum>
+      <name displayName="Smith136">John Smith136</name>
+    </infoSet>
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+    <coorStr>M 25,0 L 0,0 L 0,35 L 74,35 L 74,0 L 49,0</coorStr>
+  </room>
+  <room objectID="5-Conf5D" x="500" y="584" type="4">
+    <infoSet>
+      <name displayName="Conference Room 5D">Conference Room 5D</name>
+    </infoSet>
+    <coorStr>M 0,0 L 0,97 L 72,97 L 72,92 L 57,92 A 15,15 0 0,1 72,77 L 72,0 L 20,0 A 15,15 0 0,1 5,15 L 5,0 Z</coorStr>
+  </room>
+  <room objectID="5-046" x="595" y="584" height="68" width="45" orientation="-90" type="1">
+    <infoSet>
+      <phoneNum>209</phoneNum>
+      <name displayName="Smith137">John Smith137</name>
+    </infoSet>
+  </room>
+  <room objectID="5-047" x="595" y="629" orientation="-90" type="4">
+    <infoSet>
+      <phoneNum>212</phoneNum>
+      <name displayName="Smith138">John Smith138</name>
+    </infoSet>
+    <coorStr>M 16,0 L 16,11 L 0,11 L 0,68 L 45,68 L 45,0 L 40,0 L 40,15 A 15,15 0 0,1 25,0 Z</coorStr>
+  </room>
+  <room objectID="5-048" x="595" y="674" height="68" width="45" orientation="-90" type="1">
+    <infoSet>
+      <phoneNum>344</phoneNum>
+      <name displayName="Smith139">John Smith139</name>
+    </infoSet>
+  </room>
+  <room objectID="5-049" x="595" y="719" height="68" width="45" orientation="-90" type="2">
+    <infoSet>
+      <phoneNum>385</phoneNum>
+      <name displayName="Smith140">John Smith140</name>
+    </infoSet>
+  </room>
+  <room objectID="5-051" x="632" y="788" height="68" type="1">
+    <infoSet>
+      <phoneNum>317</phoneNum>
+      <name displayName="Smith141">John Smith141</name>
+    </infoSet>
+  </room>
+  <room objectID="5-052" x="678" y="788" height="68" type="2">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+  </room>
+  <room objectID="5-056" x="724" y="788" height="68" width="48" type="2">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+  </room>
+  <room objectID="5-060" x="772" y="788" height="68" width="47" type="1">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+  </room>
+  <room objectID="5-055" x="664" y="584" orientation="90" type="3">
+    <infoSet>
+      <phoneNum>270</phoneNum>
+      <name displayName="Smith142">John Smith142</name>
+    </infoSet>
+    <coorStr>M 20,0 L 0,0 L 0,35 L 62,35 L 62,0 L 30,0</coorStr>
+  </room>
+  <room objectID="5-054" x="664" y="646" orientation="90" type="3">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+    <coorStr>M 18,0 L 0,0 L 0,35 L 58,35 L 58,0 L 40,0</coorStr>
+  </room>
+  <room objectID="5-054closet" x="663" y="705" height="59" width="36" orientation="180" type="2" />
+  <room objectID="5-057" x="724" y="699" height="65" width="49" orientation="180" type="1">
+    <infoSet>
+      <phoneNum>441</phoneNum>
+      <name displayName="Smith143">John Smith143</name>
+    </infoSet>
+    <infoSet>
+      <phoneNum>303</phoneNum>
+      <name displayName="Smith144">John Smith144</name>
+    </infoSet>
+  </room>
+  <room objectID="5-058" x="724" y="649" height="49" width="50" orientation="90" type="2">
+    <infoSet>
+      <phoneNum>457</phoneNum>
+      <name displayName="Smith145">John Smith145</name>
+    </infoSet>
+  </room>
+  <room objectID="5-059" x="724" y="585" height="49" width="64" orientation="90" type="2">
+    <infoSet>
+      <phoneNum>464</phoneNum>
+      <name displayName="Smith146">John Smith146</name>
+    </infoSet>
+    <infoSet>
+      <phoneNum>216</phoneNum>
+      <name displayName="Smith147">John Smith147</name>
+    </infoSet>
+    <infoSet>
+      <phoneNum>228</phoneNum>
+      <name displayName="Smith148">John Smith148</name>
+    </infoSet>
+  </room>
+  <room objectID="5-061" x="807" y="699" height="65" width="44" orientation="180" type="2">
+    <infoSet>
+      <phoneNum>227</phoneNum>
+      <name displayName="Smith149">John Smith149</name>
+    </infoSet>
+    <infoSet>
+      <phoneNum>308</phoneNum>
+      <name displayName="Smith150">John Smith150</name>
+    </infoSet>
+  </room>
+  <room objectID="5-062" x="819" y="788" type="4">
+    <infoSet textX="-10">
+      <phoneNum>294</phoneNum>
+      <name displayName="Smith151">John Smith151</name>
+    </infoSet>
+    <coorStr>M 0,0 L 0,68 L 69,68 L 90,47 L 43,0 L 20,0 A 15,15 0 0,1 5,15 L 5,0 Z</coorStr>
+  </room>
+  <room objectID="5-063" x="862" y="755" height="66" width="47" orientation="-45" type="2">
+    <infoSet>
+      <phoneNum>449</phoneNum>
+      <name displayName="Smith152">John Smith152</name>
+    </infoSet>
+  </room>
+  <room objectID="5-064" x="895" y="722" height="66" width="47" orientation="-45" type="1">
+    <infoSet>
+      <phoneNum>324</phoneNum>
+      <name displayName="Smith153">John Smith153</name>
+    </infoSet>
+  </room>
+  <room objectID="5-065" x="928" y="691" height="66" width="44" orientation="-45" type="2">
+    <infoSet>
+      <phoneNum>272</phoneNum>
+      <name displayName="Smith154">John Smith154</name>
+    </infoSet>
+  </room>
+  <room objectID="5-066" x="959" y="658" height="66" width="47" orientation="-45" type="1">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+  </room>
+  <room objectID="5-067" x="996" y="618" orientation="-90" type="4">
+    <infoSet textY="-15">
+      <phoneNum>206</phoneNum>
+      <name displayName="Smith155">John Smith155</name>
+    </infoSet>
+    <coorStr>M 87,0 L 87,66 L 23,66 L 0,43 L 43,0 L 67,0 A 15,15 0 0,0 82,15 L 82,0 Z</coorStr>
+  </room>
+  <room objectID="5-068" x="996" y="571" height="66" width="47" orientation="-90" type="1">
+    <infoSet>
+      <phoneNum>351</phoneNum>
+      <name displayName="Smith156">John Smith156</name>
+    </infoSet>
+  </room>
+  <room objectID="5-069" x="996" y="524" height="66" width="47" orientation="-90" type="2">
+    <infoSet>
+      <phoneNum>339</phoneNum>
+      <name displayName="Smith157">John Smith157</name>
+    </infoSet>
+  </room>
+  <room objectID="5-070" x="996" y="477" height="66" width="47" orientation="-90" type="2">
+    <infoSet>
+      <phoneNum>448</phoneNum>
+      <name displayName="Smith158">John Smith158</name>
+    </infoSet>
+  </room>
+  <room objectID="5-072" x="923" y="449" orientation="90" type="3">
+    <infoSet>
+      <phoneNum>245</phoneNum>
+      <name displayName="Smith159">John Smith159</name>
+    </infoSet>
+    <coorStr>M 7,0 L 0,0 L 0,48 L 37,48 L 37,0 L 30,0</coorStr>
+  </room>
+  <room objectID="5-073" x="923" y="412" orientation="90" type="3">
+    <infoSet>
+      <phoneNum>289</phoneNum>
+      <name displayName="Smith160">John Smith160</name>
+    </infoSet>
+    <coorStr>M 7,0 L 0,0 L 0,48 L 37,48 L 37,0 L 30,0</coorStr>
+  </room>
+  <room objectID="5-074" x="996" y="384" height="66" width="47" orientation="-90" type="2">
+    <infoSet>
+      <phoneNum>210</phoneNum>
+      <name displayName="Smith161">John Smith161</name>
+    </infoSet>
+  </room>
+  <room objectID="5-071" x="996" y="431" height="66" orientation="-90" type="1">
+    <infoSet>
+      <phoneNum>240</phoneNum>
+      <name displayName="Smith162">John Smith162</name>
+    </infoSet>
+  </room>
+  <room objectID="5-075" x="996" y="337" height="66" width="47" orientation="-90" type="1">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+  </room>
+  <room objectID="5-076" x="922" y="337" height="51" width="76" orientation="90" type="1">
+    <infoSet>
+      <phoneNum>372</phoneNum>
+      <name displayName="Smith163">John Smith163</name>
+    </infoSet>
+  </room>
+  <room objectID="5-077" x="996" y="290" height="66" width="47" orientation="-90" type="2">
+    <infoSet>
+      <phoneNum>293</phoneNum>
+      <name displayName="Smith164">John Smith164</name>
+    </infoSet>
+  </room>
+  <room objectID="5-078" x="996" y="243" orientation="-90" type="4">
+    <infoSet>
+      <name displayName="********">Empty</name>
+    </infoSet>
+    <coorStr>M 0,0 L 0,66 L 47,66 L 47,24 A 10,10 0 0,1 47,4 L 47,0 L 20,0 A 15,15 0 0,1 5,15 L 5,0 Z</coorStr>
+  </room>
+  <room objectID="5-079" x="896" y="122" orientation="-135" type="4">
+    <infoSet>
+      <phoneNum>259</phoneNum>
+      <name displayName="Smith165">John Smith165</name>
+    </infoSet>
+    <coorStr>M 0,86 L 0,88 L 118,88 L 118,0 L 70,0 L 70,10 A 10,10 0 0,1 60,0 A 10,10 0 0,1 50,10 L 50,0 L 35,0 L 0,35 L 0,71</coorStr>
+  </room>
+  <room objectID="5-080" x="872" y="186" orientation="-135" type="3">
+    <infoSet>
+      <phoneNum>290</phoneNum>
+      <name displayName="Smith166">John Smith166</name>
+    </infoSet>
+    <coorStr>M 10,0 L 0,0 L 0,34 L 40,34 L 40,0</coorStr>
+  </room>
+  <room objectID="5-081" x="773" y="236" orientation="90" type="4">
+    <infoSet>
+      <phoneNum>244</phoneNum>
+      <name displayName="Smith167">John Smith167</name>
+    </infoSet>
+    <coorStr>M 0,101 L 70,101 L 70,0 L 27,0 A 15,15 0 0,1 12,15 L 12,0 L 11,0 L 11,16 L -2,29 L 0,31 Z</coorStr>
+  </room>
+  <room objectID="5-082" x="725" y="238" width="48" orientation="180" type="1">
+    <infoSet>
+      <phoneNum>251</phoneNum>
+      <name displayName="Smith168">John Smith168</name>
+    </infoSet>
+  </room>
+  <room objectID="5-SmithSuite" x="608" y="238" orientation="180" type="4">
+    <infoSet>
+      <name displayName="Smith Board Suite Visitor/Conference">Smith Board Suite Visitor/Conference</name>
+    </infoSet>
+    <coorStr>M 0,0 L 0,70 L 117,70 L 117,15 A 15,15 0 0,0 102,0 L 102,15 A 15,15 0 0,1 87,0 Z</coorStr>
+  </room>
+  <room objectID="5-SmithConf" x="837" y="584" orientation="90" type="4">
+    <infoSet>
+      <name displayName="Smith Conference Room">Smith Conference Room</name>
+    </infoSet>
+    <coorStr>M 0,0 L 0,134 L 70,134 L 70,10 L 60,0 L 17,0 A 15,15 0 0,1 2,15 L 2,0 Z</coorStr>
+  </room>
+  <room objectID="5-IST" x="229" y="380" type="4">
+    <infoSet textX="55" textWidth="60">
+      <name displayName="Office Services Center">Office Services Center</name>
+    </infoSet>
+    <coorStr>M 171,16 L 127,16 L 127,133 L 16,133 L 16,149 L 1,149 A 15,15 0 0,0 16,164 A 15,15 0 0,0 1,179 L 16,179 L 16,181 L 90,181 L 90,166 A 15,15 0 0,1 105,181 A 15,15 0 0,1 120,166 L 120,181 L 192,181 L 192,16 L 190,16 A 15,15 0 0,0 175,1 L 175,16 Z</coorStr>
+  </room>
+  <room objectID="5-LunchRoom" x="718" y="485" type="4">
+    <infoSet>
+      <name displayName="Lunch Room">Lunch Room</name>
+    </infoSet>
+    <coorStr>M 205,1 L 205,77 L 98,77 L 98,62 L 95,62 L 95,77 A 15,15 0 0,1 80,62 A 15,15 0 0,1 65,77 L 65,62 L 62,62 L 62,77 L 1,77 L 1,1 L 35,1 L 35,5 L 56,5 L 56,19 L 56,5 L 35,5 L 35,1 </coorStr>
+  </room>
+  <room objectID="5-DiningRoom" x="718" y="337" type="4">
+    <infoSet>
+      <name displayName="Dining Room">Dining Room</name>
+    </infoSet>
+    <coorStr>M 205,149 L 205,1 L 66,1 L 51,16 L 49,16 L 49,1 A 15,15 0 0,0 34,16 A 15,15 0 0,0 19,1 L 19,16 L 17,16 L 3,1 L 1,1 L 1,149</coorStr>
+  </room>
+  <room objectID="5-kitchen" x="718" y="377" type="4">
+    <infoSet>
+      <name displayName="Kitchen">Kitchen</name>
+    </infoSet>
+    <coorStr>M 54,30 L 54,10 L 28,10 A 10,10 0 0,0 18,0 L 18,10 L 0,10 L 0,108 L 34,108 L 34,84 L 54,84 L 54,83</coorStr>
+  </room>
+  <lastModified>11/24/2014</lastModified>
+</rooms>
